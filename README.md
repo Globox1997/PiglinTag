@@ -2,6 +2,7 @@
 Adds an easy way to add armor items to the piglin brain so that they will no longer be aggressive
 
 How to add items:
+```
 add a tag under data\piglintag\tags\items\piglin_not_attack_items.json
 Inside the tag:
 {
@@ -12,7 +13,7 @@ Inside the tag:
     ...
   ]
 }
-
+```
 To include it in your project, add this to your build.gradle:
 ```groovy
 repositories {
