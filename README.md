@@ -25,3 +25,4 @@ dependencies {
 }
 ```
 Where `LATEST` is the latest tag under the releases tab.
+[![](https://jitpack.io/v/Globox1997/PiglinTag.svg)](https://jitpack.io/#Globox1997/PiglinTag)
