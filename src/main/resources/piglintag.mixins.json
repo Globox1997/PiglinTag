@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.piglintag.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "PiglinBrainMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
