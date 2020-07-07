@@ -20,9 +20,9 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 dependencies {
-    modImplementation 'com.github.Globox1997:piglintag:LATEST'
-    include 'com.github.Globox1997:piglintag:LATEST'
+    modImplementation 'com.github.Globox1997:piglintag:1.0.0'
+    include 'com.github.Globox1997:piglintag:1.0.0'
 }
 ```
-Where `LATEST` is the latest tag under the releases tab.
+Where `1.0.0` is the latest version under the releases tab.
 [![](https://jitpack.io/v/Globox1997/PiglinTag.svg)](https://jitpack.io/#Globox1997/PiglinTag)
