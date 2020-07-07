@@ -18,7 +18,7 @@ public class PiglinBrainMixin {
   @Overwrite
   public static boolean wearsGoldArmor(LivingEntity entity) {
     Iterable<ItemStack> iterable = entity.getArmorItems();
-    Iterator var2 = iterable.iterator();
+    Iterator<ItemStack> var2 = iterable.iterator();
 
     Item item;
     do {
